@@ -105,7 +105,7 @@
           }
       }
       ?>
-      <button type="submit" name="submit" class="btn btn-primary">Sign in</button>
+      <button type="submit" name="submit" class="btn btn-primary">Enter</button>
     </form>
   </div>
 
